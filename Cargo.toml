@@ -2,7 +2,7 @@
 name = "coke"
 version = "0.0.1"
 authors = ["Santiago Ramirez <santiirepair@gmail.com>"]
-edition = "2023"
+edition = "2021"
 description = "A cryptocurrency price tracker written in Rust."
 readme = "README.md"
 license = "GPL-3.0"
