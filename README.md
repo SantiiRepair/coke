@@ -1,33 +1,34 @@
-## cryptowatcher
+## coke
 
 A cryptocurrency price tracker written in Rust.
-## usage
+
+### Usage
 
 ```
-cryptowatcher 0.1.5
-Hossein Dindar <hosseind2017@gmail.com>
+coke 0.0.1
+Santiago Ramirez <santiirepair@gmail.com>
 A cryptocurrency price tracker written in Rust.
 
 USAGE:
-    cryptowatcher <TOKENS>
+    coke <TOKENS>
 
 ARGS:
     <TOKENS>    additional tokens that you can add to track, like ripple,stellar
 
 ```
 
-## Installation
+### Installation
 
 Via cargo
 
 ```
-cargo install cryptowatcher
+cargo install coke
 ```
 
-## screenshot
+### Screenshot
 
 ![screenshot](screenshot.png)
 
-## license
+### License
 
-This project is license used the MIT license. See [LICENSE](LICENSE) for more details.
+This project is license used the GPL-3.0 license. See [LICENSE](LICENSE) for more details.
