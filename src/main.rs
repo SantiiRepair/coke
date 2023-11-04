@@ -47,7 +47,7 @@ fn run() -> Fallible<()> {
 
     clear_console();
 
-    println!("Welcome to cryptowatcher 👋\nplease wait a little to initial data be fetched\nthanks for your patience");
+    println!("Fetching data...");
 
     let update = Box::new(move || {
         block_on(update_data(&urls)).unwrap();
