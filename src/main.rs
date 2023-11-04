@@ -1,5 +1,5 @@
 use clap::clap_app;
-use cryptowatcher::{
+use coke::{
     core::update_data,
     utils::{clear_console, parse_url},
 };
